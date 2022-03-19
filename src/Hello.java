@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**
  * 첫 번째 예제 프로그램
  * @version 1.0 2022-03-10
@@ -11,6 +12,15 @@ public class Hello {
 		
 		System.out.println(s1 + "\n" + s2);
 		
+=======
+
+public class Hello {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello World!");
+
+>>>>>>> c0c3bf9b8161e6bd00501bb14f706ba571112e19
 	}
 
 }
