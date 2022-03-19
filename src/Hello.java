@@ -6,8 +6,11 @@
 public class Hello {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello.world!"); // "Hello.world!"를 출력한다.
-		System.out.println("I'm a new java programmer.");
+		String s1 = "Hello.world!"; // "Hello.world!"를 출력한다.
+		String s2 = "I'm a new java programmer.";
+		
+		System.out.println(s1 + "\n" + s2);
+		
 	}
 
 }
